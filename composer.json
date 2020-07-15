@@ -8,13 +8,10 @@
             "email": "unsalpisirgen23@hotmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "lovely/request": "dev-master"
-    },
+    "minimum-stability": "dev", 
     "autoload": {
         "psr-4": {
-            "Lovely\\": "src/"
+            "Lovely\\Framework\\": "src/"
         }
     }
 }
